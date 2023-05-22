@@ -1,4 +1,4 @@
-Author: Lpy、LYY、YXY
+Author: Lpy、LYY、YXY（Zhejiang University）
 
 1. 目录 
     appcode   ---------  俄罗斯方块的源文件
